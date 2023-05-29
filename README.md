@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ansar Ahmed
-- 👀 Im make wonderful pages using HTML, CSS/Bootstrap, JavaScript, React.JS and NodeJS, 
+- 👀 Im make wonderful projects using HTML, CSS/Bootstrap, JavaScript, React.JS and NodeJS, 
 - 🌱 I’m currently learning PHP 
 - 💞️ If youn have any idfeas and want to join me in your project 
 - 📫 then reach me by unsing instagram https://www.instagram.com/ansarahmed._/
